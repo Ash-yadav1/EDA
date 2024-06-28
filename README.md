@@ -6,7 +6,7 @@ INSIGHT
 
 EDA provides several key insights into data:
 
-1. istribution: Understanding how data is distributed, including skewness and kurtosis.
+1. Distribution: Understanding how data is distributed, including skewness and kurtosis.
 2. Central Tendency: Identifying mean, median, and mode to understand the center of the data.
 3. Variability: Assessing the spread of the data using range, variance, and standard deviation.
 4. Relationships: Discovering correlations and associations between variables.
